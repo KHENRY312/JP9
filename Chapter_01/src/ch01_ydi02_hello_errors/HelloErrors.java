@@ -4,11 +4,11 @@
   own assignments.
  **************************************************************************************************/
 
-package ch01_ydi02_HelloErrors;
+package ch01_ydi02_hello_errors;
 /*
 Project:  JP9
 Module:   Chapter_01
-Package:  ch01_ydi02_HelloErrors
+Package:  ch01_ydi02_hello_errors
 File:     HelloErrors
 Creator:  Kimberly Henry
 Created:  Mon, 01-Feb-2021
