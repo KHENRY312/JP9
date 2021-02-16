@@ -13,7 +13,7 @@ Creator:        Kimberly Henry
 Created on:   Sat, 13-Feb-2021
 Created at:    8:23 PM
 */
-package ch02_ydi04_interger_interactive_demo;
+package ch02_ydi04_interger_demo_interactive;
 
 import java.util.Scanner;
 

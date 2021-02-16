@@ -7,17 +7,17 @@
 /*
 Project:         JP9
 Module:        Chapter_02
-Package:       ch02_ydi05_adding_string_input
-File:              AddingStringInput
+Package:       ch02_ydi05_integer_demo_interactive_with_name
+File:              IntegerDemoInteractiveWithName
 Creator:        Kimberly Henry
 Created on:   Mon, 15-Feb-2021
 Created at:    9:15 AM
 */
-package ch02_ydi05_adding_string_input;
+package ch02_ydi05_integer_demo_interactive_with_name;
 
 import java.util.Scanner;
 
-public class AddingStringInput
+public class IntegerDemoInteractiveWithName
    {
       public static void main(String[] args)
          {
