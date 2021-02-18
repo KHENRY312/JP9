@@ -22,7 +22,7 @@ public class BooleanValues
            System.out.println();
            System.out.println("Solutions To Chapter 2 Exercise 2");
            System.out.println();
-           boolean isABoolean = 15 < 13;
+           boolean isABoolean = 15 < 3;
            boolean isBBoolean = 8 <=  (2 + 6);
            boolean isCBoolean =  15 == 15;
            boolean isDBoolean = 3  >=  3;
