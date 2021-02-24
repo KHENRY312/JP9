@@ -1,15 +1,15 @@
-/* *************************************************************************************************
+/* **************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
   or reproduced for other uses than educational; and not to be used in lieu of performing your
   own assignments.
  **************************************************************************************************/
 
-package ch01_cs01_sammys_seashore;
+package ch01_cs01_sammys_motto;
 
 /*
 Project:         JP9
 Module:        Sammys_Seashore
-Package:       ch01_cs01_sammys_seashore
+Package:       ch01_cs01_sammys_motto
 File:               SammysMotto
 Creator:        Kimberly Henry
 Created on:   Tue, 23-Feb-2021
