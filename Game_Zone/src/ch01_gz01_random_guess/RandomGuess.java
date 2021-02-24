@@ -7,13 +7,13 @@
 /*
 Project:         JP9
 Module:        Game_Zone
-Package:       ch01_random_guess
+Package:       ch01_gz01_random_guess
 File:              RandomGuess
 Creator:        Kimberly Henry
 Created on:   Tue, 23-Feb-2021
 Created at:    8:11 PM
 */
-package ch01_random_guess;
+package ch01_gz01_random_guess;
 
 import javax.swing.*;
 
