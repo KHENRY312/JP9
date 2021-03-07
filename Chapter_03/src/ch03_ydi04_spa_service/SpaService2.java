@@ -20,6 +20,11 @@ public class SpaService2
       private String serviceDescription;
       private double price;
 
+      public SpaService2()
+         {
+            serviceDescription = "XXX";
+            price = 0;
+         }
       public void setServiceDescription(String service)
          {
             serviceDescription = service;
