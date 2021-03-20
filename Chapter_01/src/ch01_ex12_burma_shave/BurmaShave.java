@@ -1,4 +1,4 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
   or reproduced for other uses than educational; and not to be used in lieu of performing your
   own assignments.
@@ -18,13 +18,12 @@ public class BurmaShave
   {
     public static void main(String[] arg)
       {
-        JOptionPane.showMessageDialog(null, "Approached a crossing,",
+        JOptionPane.showMessageDialog( null, """
+            Approached a crossing
+            Without looking
+            Who will eat
+            His widow's cooking.""",
             "BURMA SHAVE", JOptionPane.PLAIN_MESSAGE);
-        JOptionPane.showMessageDialog(null, "Without looking,",
-            "BURMA SHAVE", JOptionPane.PLAIN_MESSAGE);
-        JOptionPane.showMessageDialog(null, "Who will eat,",
-            "BURMA SHAVE", JOptionPane.PLAIN_MESSAGE);
-        JOptionPane.showMessageDialog(null, "His widow's cooking.",
-            "BURMA SHAVE", JOptionPane.PLAIN_MESSAGE);
+        System.exit(0);
       }
   }

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch01_ex06_song_lyrics"},{"l":"ch01_ex07_movie_quote_info"},{"l":"ch01_ex08_table_and_chairs"},{"l":"ch01_ex09_triangle"},{"l":"ch01_ex10_Comments"},{"l":"ch01_ex11_comments_dialog"},{"l":"ch01_ex12_burma_shave"}];updateSearchResults();

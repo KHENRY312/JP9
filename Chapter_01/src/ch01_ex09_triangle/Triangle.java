@@ -1,4 +1,4 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
   or reproduced for other uses than educational; and not to be used in lieu of performing your
   own assignments.
@@ -18,14 +18,16 @@ public class Triangle
   {
     public static void main(String[] arg)
       {
-        JOptionPane.showMessageDialog (null, "              *" +
-                "\n           * *  *" +
-                "\n        * *  *  *  *" +
-                "\n     * * * * * * * *" +
-                "\n   * * * * * * * * * *" +
-                "\n * * * * * * * * * * * * "+
-                "\n* * * * * * * * * * * * *",
+        JOptionPane.showMessageDialog (null, """
+                                  *
+                               * *  *
+                            * *  *  *  *
+                         * * * * * * * *
+                       * * * * * * * * * *
+                     * * * * * * * * * * * *\s
+                    * * * * * * * * * * * * *""",
             "TRIANGLE",
             JOptionPane.INFORMATION_MESSAGE);
+        System.exit(0);
       }
   }

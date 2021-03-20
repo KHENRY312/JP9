@@ -19,6 +19,7 @@ public class Comments
       {
         System.out.println("Program comments are non-executing statements " +
             "\nyou add to a file for the purpose of documentation.");
+        System.exit(0);
       }
   }
 	/*Program comments are non-executing statements you add to a file for the purpose of

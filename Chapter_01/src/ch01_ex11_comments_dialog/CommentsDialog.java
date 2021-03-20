@@ -1,4 +1,4 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
   or reproduced for other uses than educational; and not to be used in lieu of performing your
   own assignments.
@@ -18,9 +18,10 @@ public class CommentsDialog
   {
     public static void main(String[] args)
       {
-        JOptionPane.showMessageDialog(null, "Program comments are non-executing " +
-                "\nstatements you add to a file for " +
-                "\nthe purpose of documentation.",
+        JOptionPane.showMessageDialog(null, """
+                    Program comments are non-executing
+                    statements you add to a file for
+                    the purpose of documentation.""",
             "COMMENTS", JOptionPane.PLAIN_MESSAGE);
       }
   }
