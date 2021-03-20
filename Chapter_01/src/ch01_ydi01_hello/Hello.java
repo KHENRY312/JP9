@@ -5,6 +5,7 @@
  **************************************************************************************************/
 
 package ch01_ydi01_hello;
+
 /*
 Project:  JP9
 Module:   Chapter_01
@@ -13,10 +14,12 @@ File:     Hello
 Creator:  Kimberly Henry
 Created:  Mon, 01-Feb-2021
 */
+
 public class Hello
   {
     public static void main(String[] arg)
       {
         System.out.println("Hello, world!");
+        System.exit(0);
       }
   }
