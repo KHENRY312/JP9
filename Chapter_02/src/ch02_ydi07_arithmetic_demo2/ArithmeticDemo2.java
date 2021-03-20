@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -37,5 +37,6 @@ public class ArithmeticDemo2
             System.out.println(firstNumber + " + " + secondNumber + " is " + sum);
             System.out.println(firstNumber + " - " + secondNumber + " is " + difference);
             System.out.println("The average of " + firstNumber + " and " + secondNumber + " is " + average);
+            System.exit(0);
          }
    }
