@@ -1,7 +1,7 @@
-/* **************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -51,11 +51,12 @@ public class ChiliToGoProfit
 
                         "\nTotal Child's Orders " + childPrice + "." +
                         "\nTotal Order Cost " + totalOrder + "." +
-                        "\nTotal Profit Adult meals are " + Math.round(totalAdultProfit * 100)/100 + "." +
-                        "\nTotal Profit Child's meals are " + (Math.round(totalChildProfit *100)/100 )+ "." +
-                        "\nTotal Profit for Order is " + (Math.round(profit * 100)/100) + ".",
-                            "TOTAL ORDERS",
+                        "\nTotal Profit Adult meals are " + Math.round(totalAdultProfit * 100) / 100 + "." +
+                        "\nTotal Profit Child's meals are " + (Math.round(totalChildProfit * 100) / 100) + "." +
+                        "\nTotal Profit for Order is " + (Math.round(profit * 100) / 100) + ".",
+                  "TOTAL ORDERS",
                   JOptionPane.INFORMATION_MESSAGE);
+            System.exit(0);
 
          }
    }

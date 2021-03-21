@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -33,5 +33,6 @@ public class MileConversionInteractive
             JOptionPane.showMessageDialog(null, "Total yards in miles is " + milesYard + " yards. \n" +
                   "Total feet in miles is " + milesFeet + " feet. " +
                   "\nTotal inches in a mile is " + milesInches + " inches.");
+            System.exit(0);
          }
    }

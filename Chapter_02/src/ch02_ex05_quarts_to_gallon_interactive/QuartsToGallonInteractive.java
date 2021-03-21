@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -28,7 +28,8 @@ public class QuartsToGallonInteractive
             int gallonsRequired = quartNeeded / QUARTS_IN_GALLON;
             int quartsRequired = quartNeeded % QUARTS_IN_GALLON;
             JOptionPane.showMessageDialog(null, "It will require " + gallonsRequired + " gallons and " +
-                  "\n  " + quartsRequired +  " quarts to paint the room.", "PAINT REQUIRED",
+                        "\n  " + quartsRequired + " quarts to paint the room.", "PAINT REQUIRED",
                   JOptionPane.INFORMATION_MESSAGE);
+            System.exit(0);
          }
    }

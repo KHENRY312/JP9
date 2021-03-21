@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -24,6 +24,7 @@ public class QuartsToGallons
             int gallonsRequired = quartNeeded / QUARTS_IN_GALLON;
             int quartsRequired = quartNeeded % QUARTS_IN_GALLON;
             System.out.println("To paint this room it will require " + gallonsRequired +
-                  " gallons and " + quartsRequired +  " quarts ." );
+                  " gallons and " + quartsRequired + " quarts .");
+            System.exit(0);
          }
    }

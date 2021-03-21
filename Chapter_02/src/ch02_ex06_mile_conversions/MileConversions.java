@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -23,7 +23,8 @@ public class MileConversions
             final int FEET = 5280;
             final int INCHES = 63360;
             int miles = 125;
-            System.out.println("In " + miles + " there is " + (miles * YARDS) +  " yards or \n" + (miles * FEET) +
+            System.out.println("In " + miles + " there is " + (miles * YARDS) + " yards or \n" + (miles * FEET) +
                   " feet or " + (miles * INCHES) + " inches. ");
+            System.exit(0);
          }
    }

@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -45,10 +45,11 @@ public class Eggs
 
             //Order details for user.
             JOptionPane.showMessageDialog(null, "Your order of " + eggsOrdered + " eggs will come to " +
-                  "" + dozensOrdered + " dozens and " + singlesOrdered + " singles. \n" +
-                  " At the cost of " + DOZEN_COST + " per dozen and " + SINGLE_COST +  " cents per single egg,  \n" +
-                  " your order will cost " + costDozen + " for the dozens and " + costSingles + ".\n" +
-                  " The total cost will be " + totalOrder + ".",
+                        "" + dozensOrdered + " dozens and " + singlesOrdered + " singles. \n" +
+                        " At the cost of " + DOZEN_COST + " per dozen and " + SINGLE_COST + " cents per single egg,  \n" +
+                        " your order will cost " + costDozen + " for the dozens and " + costSingles + ".\n" +
+                        " The total cost will be " + totalOrder + ".",
                   " TOTAL ORDER", JOptionPane.INFORMATION_MESSAGE);
+            System.exit(0);
       }
    }

@@ -24,5 +24,6 @@ public class Initials
            char period = '.';
            String space = " ";
            System.out.print("My initials are " + first + period + space + last + period);
+            System.exit(0);
          }
    }

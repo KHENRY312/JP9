@@ -30,8 +30,9 @@ public class ElectionStatistics
             double percentBush = (double) bush / totalVotes;
             JOptionPane.showMessageDialog(null,
                   "Barak Obama                     " + Math.round(percentObama * 100) + "%" +
-                        "\nDonald J. Trump                " +Math.round(percentTrump * 100) + "%" +
+                        "\nDonald J. Trump                " + Math.round(percentTrump * 100) + "%" +
                         "\nGeorge W. Bush                " + Math.round(percentBush * 100) + "%",
                   "MAYORAL ELECTION RESULTS", JOptionPane.INFORMATION_MESSAGE);
+            System.exit(0);
          }
    }
