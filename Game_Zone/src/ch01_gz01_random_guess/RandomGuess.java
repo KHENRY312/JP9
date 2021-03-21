@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -25,6 +25,6 @@ public class RandomGuess
                   "GUESS NUMBER",JOptionPane.INFORMATION_MESSAGE);
             JOptionPane.showMessageDialog(null, "The number is " + (1 + (int) (Math.random() * 10) + "."),
                   "RANDOM NUMBER", JOptionPane.INFORMATION_MESSAGE);
-
+            System.exit(0);
          }
    }
