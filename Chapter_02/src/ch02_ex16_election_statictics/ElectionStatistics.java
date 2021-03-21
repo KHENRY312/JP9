@@ -1,13 +1,13 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
 Project:         JP9
 Module:        Chapter_02
-Package:       ch02_ex16_election_statictics
+Package:       ch02_ex16_election_statistics
 File:              ElectionStatistics
 Creator:        Kimberly Henry
 Created on:   Sat, 20-Feb-2021
