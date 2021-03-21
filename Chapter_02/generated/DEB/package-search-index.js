@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch02_db01_fix_debug_two1"},{"l":"ch02_db02_fix_debug_two2"},{"l":"ch02_db03_fix_debug_two3"},{"l":"ch02_db04_fix_debug_two4"}];updateSearchResults();
