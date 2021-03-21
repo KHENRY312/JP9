@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -28,8 +28,9 @@ public class RandomGuessMatch
                   "Guess a number between 1 and 10",
                   "GUESS NUMBER", JOptionPane.QUESTION_MESSAGE));
             JOptionPane.showMessageDialog(null, "You Guessed " + guess +
-                  "\nThe correct number is " + random +
-                  "\nThere is a difference of " + (random - guess) + ".",
+                        "\nThe correct number is " + random +
+                        "\nThere is a difference of " + (random - guess) + ".",
                   "GUESS RESULT", JOptionPane.INFORMATION_MESSAGE);
+            System.exit(0);
          }
    }

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_gz02_mad_lib","c":"MadLib","l":"MadLib()","u":"%3Cinit%3E()"},{"p":"ch02_gz02_mad_lib","c":"MadLib","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

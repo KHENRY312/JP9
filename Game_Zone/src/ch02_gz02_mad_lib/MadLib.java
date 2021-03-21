@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -42,9 +42,9 @@ public class MadLib
                                     "PAST TENSE VERB", JOptionPane.QUESTION_MESSAGE
                             );
                             JOptionPane.showMessageDialog(null, name + " had a little " + petType +
-                                    "\nIts " + petBodyPart + " was " + color + " as snow" +
-                                    "\nAnd everywhere that"   + " " + name  + " " + pastTenseVerb +
-                                    "\nThe " + petType + " was sure to go");
-
+                                  "\nIts " + petBodyPart + " was " + color + " as snow" +
+                                  "\nAnd everywhere that" + " " + name + " " + pastTenseVerb +
+                                  "\nThe " + petType + " was sure to go");
+            System.exit(0);
          }
    }
