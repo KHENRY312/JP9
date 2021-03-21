@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -42,5 +42,6 @@ public class BooleanValues
            System.out.println("H. The boolean value of 8 != (2 + 5) is " + isHBoolean);
            System.out.println("I.  The boolean value of 10 - 20 == -10 is " + isIBoolean);
            System.out.println("J.  The boolean value of 3 + 2 * 6 == 30 is " + isJBoolean);
+            System.exit(0);
        }
    }

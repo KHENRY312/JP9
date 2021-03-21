@@ -1,4 +1,4 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
   or reproduced for other uses than educational; and not to be used in lieu of performing your
   own assignments.
@@ -59,5 +59,6 @@ public class NumericValues
             b = 2;
             c = 0;
             System.out.println("J.  " + a + " % " + b + " * " + c + " = " + (a / b + c));
+            System.exit(0);
          }
    }
