@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_15">
     <output url="file://$MODULE_DIR$/out" />
     <output-test url="file://$MODULE_DIR$/test" />
     <exclude-output />
@@ -9,5 +9,7 @@
     </content>
     <orderEntry type="jdk" jdkName="15" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Java" level="project" />
+    <orderEntry type="library" name="lib" level="application" />
   </component>
 </module>
