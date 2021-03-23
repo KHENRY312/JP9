@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -31,6 +31,6 @@ public class SammysRentalPrice
             int time = keyboard.nextInt();
             double leaseCost =  ((time / HOUR) * HOUR_COST) + (time % HOUR);
             System.out.println("Total cost of the lease is " + leaseCost);
-
+            System.exit(0);
          }
    }
