@@ -1,7 +1,7 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -22,5 +22,6 @@ public class SammysMotto2
             System.out.println("********************************");
             System.out.println("Sammy’s makes it fun in the sun.");
             System.out.println("********************************");
+            System.exit(0);
          }
    }

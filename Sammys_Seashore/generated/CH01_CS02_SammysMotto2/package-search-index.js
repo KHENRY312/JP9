@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch01_cs02_sammys_motto2"}];updateSearchResults();
