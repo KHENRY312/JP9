@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ch02_gz03_random_guess_match","c":"RandomGuessMatch","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch02_gz03_random_guess_match","c":"RandomGuessMatch","l":"RandomGuessMatch()","u":"%3Cinit%3E()"}];updateSearchResults();

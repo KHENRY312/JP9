@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch02_gz03_random_guess_match","l":"RandomGuessMatch"}];updateSearchResults();
