@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch02_cs03_carlys_event_price"}];updateSearchResults();
