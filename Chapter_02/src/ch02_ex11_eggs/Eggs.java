@@ -18,7 +18,7 @@ user for the number of eggs in the order and then display the amount owed with a
  For example, the typical output might be, You ordered 27 eggs. That’s 2 dozen at $3.25 per dozen
  and 3 loose eggs at 45 cents each for a total of $7.85. Save the program as Eggs.java.
 */
-package ch0_ex11_eggs;
+package ch02_ex11_eggs;
 
 import javax.swing.*;
 
