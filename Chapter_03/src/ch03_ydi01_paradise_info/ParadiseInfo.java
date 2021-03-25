@@ -1,7 +1,7 @@
-/* **************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
- or reproduced for other uses than educational; and not to be used in lieu of performing your
- own assignments.
+  or reproduced for other uses than educational; and not to be used in lieu of performing your
+  own assignments.
  **************************************************************************************************/
 
 /*
@@ -25,5 +25,6 @@ public class ParadiseInfo
          {
             System.out.println("Paradise Day Spad wants to pamper you.");
             System.out.println("We will make you look good.");
+            System.exit(0);
          }
    }
