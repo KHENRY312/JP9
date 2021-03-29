@@ -1,4 +1,4 @@
-/* *************************************************************************************************
+/***************************************************************************************************
  Copyright (c) 2021. Kimberly Henry This code shall not be used, manipulated, decompiled
   or reproduced for other uses than educational; and not to be used in lieu of performing your
   own assignments.
@@ -31,6 +31,7 @@ public class CreateSpaServices2
             System.out.println();
             System.out.println("Second Service Details");
             System.out.println(secondService2.getServiceDescription() + " $" + secondService2.getPrice());
+            System.exit(0);
          }
       public static SpaService2 getData(SpaService2 service2)
          {
