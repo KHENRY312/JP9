@@ -15,7 +15,7 @@ package ch03_ex01_legal_math_methods;
  * Created on:   Tue, 30-Mar-2021
  * Created at:    1:35 AM
  */
-public class LegalMathMethods<x>
+public class LegalMathMethods
    {
       public static void main(String[] args)
          {
