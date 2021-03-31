@@ -6,17 +6,16 @@
 
 package ch03_ex01_legal_math_methods;
 
-/*
-Project:         JP9
-Module:        Chapter_03
-Package:       ch03_ex01_legal_method_calls
-File:              LegalMethodCalls
-Creator:         Kimberly Henry
-Created on:   Tue, 30-Mar-2021
-Created at:    1:35 AM
-
-*/
-public class LegalMathMethods
+/**
+ * Project:         JP9
+ * Module:        Chapter_03
+ * Package:       ch03_ex01_legal_method_calls
+ * File:              LegalMethodCalls
+ * Creator:         Kimberly Henry
+ * Created on:   Tue, 30-Mar-2021
+ * Created at:    1:35 AM
+ */
+public class LegalMathMethods<x>
    {
       public static void main(String[] args)
          {
@@ -42,6 +41,7 @@ public class LegalMathMethods
                   "parameter a is not defined in the class");
             System.out.println("J.  mathMethod(a / x) is an invalid method call because the " +
                   "parameter a is not defined in the class");
+            System.exit(0);
          }
       public static void mathMethod(int x)
          {
