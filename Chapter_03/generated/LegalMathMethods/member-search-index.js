@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"ch03_ex01_legal_math_methods","c":"LegalMathMethods","l":"LegalMathMethods()","u":"%3Cinit%3E()"},{"p":"ch03_ex01_legal_math_methods","c":"LegalMathMethods","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch03_ex01_legal_math_methods","c":"LegalMathMethods","l":"mathMethod(int)"}];updateSearchResults();

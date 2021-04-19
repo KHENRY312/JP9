@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"ch03_ydi01_paradise_info","c":"ParadiseInfo","l":"displayInfo()"},{"p":"ch03_ydi01_paradise_info","c":"ParadiseInfo","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ch03_ydi01_paradise_info","c":"ParadiseInfo","l":"ParadiseInfo()","u":"%3Cinit%3E()"}];updateSearchResults();
