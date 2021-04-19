@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ydi04_spa_service","l":"CreateSpaServices"},{"p":"ch03_ydi04_spa_service","l":"CreateSpaServices2"},{"p":"ch03_ydi04_spa_service","l":"SpaService"},{"p":"ch03_ydi04_spa_service","l":"SpaService2"}];updateSearchResults();
