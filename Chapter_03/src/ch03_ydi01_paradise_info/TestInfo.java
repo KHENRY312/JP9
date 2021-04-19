@@ -21,5 +21,6 @@ public class TestInfo
          {
             System.out.println("Calling method from another class:");
             ParadiseInfo.displayInfo();
+            System.exit(0);
          }
    }
