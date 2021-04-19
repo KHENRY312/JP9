@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch03_ex02_legal_method_calls"}];updateSearchResults();

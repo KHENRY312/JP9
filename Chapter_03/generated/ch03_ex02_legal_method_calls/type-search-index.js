@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ch03_ex02_legal_method_calls","l":"LegalMethodCalls"}];updateSearchResults();

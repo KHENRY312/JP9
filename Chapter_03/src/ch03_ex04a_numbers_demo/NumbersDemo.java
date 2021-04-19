@@ -4,17 +4,15 @@
   own assignments.
  **************************************************************************************************/
 package ch03_ex04a_numbers_demo;
-
 /**
- * Project:         JP9
- * Module:        Chapter_03
- * Package:       ch03_ex04a_numbers_demo
- * File:              NumbersDemo
- * Creator:         Kimberly Henry
+ * Project:      JP9
+ * Module:       Chapter_03
+ * Package:      ch03_ex04a_numbers_demo
+ * File:         NumbersDemo
+ * Creator:      Kimberly Henry
  * Created on:   Wed, 31-Mar-2021
- * Created at:    2:23 AM
+ * Created at:   2:23 AM
  */
-
 public class NumbersDemo
    {
       public static void main(String[] args)
@@ -35,8 +33,8 @@ public class NumbersDemo
       }
 
       public static void displayTwiceTheNumber(int a, int b)
-         /**Pass each value to a method named displayTwiceTheNumber().  Create a method to perform
-          * the task its name implies.
+         /**Pass each value to a method named displayTwiceTheNumber().
+          * Create a method to perform the task its name implies.
           */
       {
          final int VALUE = 2;
@@ -48,8 +46,8 @@ public class NumbersDemo
       }
 
       public static void displayNumberPlusFive(int a, int b)
-         /**Pass each value to a method named displayNumberPlusFive().  Create the method to
-          * perform the task its name implies. Save the application as NumbersDemo.java.
+         /**Pass each value to a method named displayNumberPlusFive().  Create the method
+          * to perform the task its name implies. Save the application as NumbersDemo.java.
           */
       {
          final int VALUE = 5;
@@ -61,16 +59,18 @@ public class NumbersDemo
       }
 
       public static void displayNumberSquared(int a, int b)
-         /**Pass each value to a method named displayNumberSquared(). Create each method to
-          * perform the task its name implies. Save the application as NumbersDemo.java.
+         /**Pass each value to a method named displayNumberSquared(). Create each method
+          * to perform the task its name implies. Save the application as NumbersDemo.java.
           */
       {
          int c = a * a;
          int d = b * b;
          int e = (int) Math.sqrt(a);
          int f = (int) Math.sqrt(b);
-         System.out.println(a + " squared is " + c + "; however the square root of " + a + " is " + e + ".");
-         System.out.println(b + " squared is " + d + "; however the square root of " + b + " is " + f + ".");
+         System.out.println(a + " squared is " + c + "; however the square root " +
+             "of " + a + " is " + e + ".");
+         System.out.println(b + " squared is " + d + "; however the square root " +
+             "of " + b + " is " + f + ".");
          System.out.println();
       }
    }
