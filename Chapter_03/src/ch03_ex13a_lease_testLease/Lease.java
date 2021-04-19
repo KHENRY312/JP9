@@ -3,12 +3,12 @@
  or reproduced for other uses than educational; and not to be used in lieu of performing
  your own assignments.
  **************************************************************************************************/
-package ch03_13a_lease_testLease;
+package ch03_ex13a_lease_testLease;
 import javax.swing.*;
 /**
  * Project:      JP9
  * Module:       Chapter_03
- * Package:      ch03_13a_lease_testLease
+ * Package:      ch03_ex13a_lease_testLease
  * File:         Lease
  * Creator:      Kimberly Henry
  * Created on:   Mon, 19-Apr-2021

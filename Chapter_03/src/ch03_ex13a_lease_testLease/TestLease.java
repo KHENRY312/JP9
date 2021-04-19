@@ -3,7 +3,7 @@
  or reproduced for other uses than educational; and not to be used in lieu of performing your
  own assignments.
  **************************************************************************************************/
-package ch03_13a_lease_testLease;
+package ch03_ex13a_lease_testLease;
 import javax.swing.*;
 /**
  * Project:      JP9

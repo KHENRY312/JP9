@@ -7,13 +7,13 @@
 package ch03_ex01_legal_math_methods;
 
 /**
- * Project:         JP9
- * Module:        Chapter_03
- * Package:       ch03_ex01_legal_method_calls
- * File:              LegalMethodCalls
- * Creator:         Kimberly Henry
+ * Project:      JP9
+ * Module:       Chapter_03
+ * Package:      ch03_ex01_legal_method_calls
+ * File:         LegalMethodCalls
+ * Creator:      Kimberly Henry
  * Created on:   Tue, 30-Mar-2021
- * Created at:    1:35 AM
+ * Created at:   1:35 AM
  */
 public class LegalMathMethods
    {
