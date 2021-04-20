@@ -16,8 +16,8 @@ import java.util.Scanner;
  * Creator:      Kimberly Henry
  * Created on:   Wed, 31-Mar-2021
  * Created at:   4:29 AM
- * Modify the NumbersDemo class to accept the values of the two integers from a user at the
- * keyboard. Save the file as NumbersDemo2.java.
+ * Modify the NumbersDemo class to accept the values of the two integers from a user at
+ * the keyboard. Save the file as NumbersDemo2.java.
  */
 public class NumbersDemo2
    {
@@ -44,8 +44,8 @@ public class NumbersDemo2
       }
 
       public static void displayTwiceTheNumber(int a, int b)
-         /**Pass each value to a method named displayTwiceTheNumber().  Create a method to perform
-          * the task its name implies.
+         /**Pass each value to a method named displayTwiceTheNumber().  Create a method to
+          * perform the task its name implies.
           */
       {
          final int VALUE = 2;
@@ -57,8 +57,8 @@ public class NumbersDemo2
       }
 
       public static void displayNumberPlusFive(int a, int b)
-         /**Pass each value to a method named displayNumberPlusFive().  Create the method to
-          * perform the task its name implies. Save the application as NumbersDemo.java.
+         /**Pass each value to a method named displayNumberPlusFive().  Create the method
+          * to perform the task its name implies. Save the application as NumbersDemo.java.
           */
       {
          final int VALUE = 5;
@@ -70,8 +70,8 @@ public class NumbersDemo2
       }
 
       public static void displayNumberSquared(int a, int b)
-         /**Pass each value to a method named displayNumberSquared(). Create each method to
-          * perform the task its name implies. Save the application as NumbersDemo.java.
+         /**Pass each value to a method named displayNumberSquared(). Create each method
+          * to perform the task its name implies. Save the application as NumbersDemo.java.
           */
       {
          int c = a * a;
