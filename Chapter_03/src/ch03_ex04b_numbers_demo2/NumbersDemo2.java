@@ -9,13 +9,13 @@ package ch03_ex04b_numbers_demo2;
 import java.util.Scanner;
 
 /**
- * Project:         JP9
- * Module:        Chapter_03
- * Package:       ch03_ex04b_numbers_demo2
- * File:              NumbersDemo2
- * Creator:         Kimberly Henry
+ * Project:      JP9
+ * Module:       Chapter_03
+ * Package:      ch03_ex04b_numbers_demo2
+ * File:         NumbersDemo2
+ * Creator:      Kimberly Henry
  * Created on:   Wed, 31-Mar-2021
- * Created at:    4:29 AM
+ * Created at:   4:29 AM
  * Modify the NumbersDemo class to accept the values of the two integers from a user at the
  * keyboard. Save the file as NumbersDemo2.java.
  */
@@ -32,9 +32,9 @@ public class NumbersDemo2
          System.out.print("Enter another integer:  ");
          int b = keyboard.nextInt();
          keyboard.close();
-         System.out.print("Integer a is " + a + "\nInteger b is " + b);
+         System.out.print("\nInteger a is " + a + "\nInteger b is " + b);
          System.out.println();
-         System.out.println("Display Twice The Number: ");
+         System.out.println("\nDisplay Twice The Number: ");
          displayTwiceTheNumber(a, b);
          System.out.println("Display Number Plus Five: ");
          displayNumberPlusFive(a, b);
